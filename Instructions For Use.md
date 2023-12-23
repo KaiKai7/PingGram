@@ -12,4 +12,16 @@ Web requests are sent when the ping time exceeds 2 seconds or the ping is unreac
 
 Running apps in the background are subject to Android policies and future code updates may break that functionality, so this app has been coded to run with the screen open to avoid any future issues.
 
-Of course, running with the screen open does present new issues. One of which is that Android will only allow the screen to stay open for 30 minutes before closing.
+Of course, running with the screen open does present new issues. One of which is that Android will only allow the screen to stay open for 30 minutes before closing. Another way to keep the screen open, is the "Stay awake" toggle in Developer Options. This allows the phone screen to stay open when charging. Charging is something that should be done if the screen is open and the ping is running every 30 seconds anyway.
+
+But if you have not already been to Developer Options, you will first have t perform the Google "open Sesame" command and enable the option. To do this follow these steps, and it is really not that hard at all to do.
+
+* Go to Setttings
+* Select "About phone"
+* Scroll down to "Build number" and tap "Build number" seven times. And then you should see a toast saying unlocked or something similiar.
+* Then go back one screen to "Settings".
+* Select "System"
+* Scroll down to "Developer options", nice !
+* Scroll to "Stay awake" and toggle
+
+Now that you performed the Google "Open Sesame" and have Developer Options, you dont have to do that again to expose it. So if you choose to turn off the stay awake feature, it is easy.
