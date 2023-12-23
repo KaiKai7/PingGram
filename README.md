@@ -1,6 +1,8 @@
 ![pinggram logo resized](https://github.com/KaiKai7/PingGram/assets/87836320/506f5897-8c2c-4373-9a37-9857651bd1c9)
 # PingGram
-Simple ping utility that can ping an ip address, and optionally run a scheduled ping.
+Simple ping utility that can ping an ip address, and optionally run a scheduled ping. This is useful if you need to monitor a device to make sure it is online. Or monitor your isp connection.
+
+Monitor your security cameras and other critical devices to ensure they are connected and you are aware.
 
 PingGram will also optionally send a web request when a scheduled ping is unreachable, or exceeds the timeout.
 
