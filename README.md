@@ -1,4 +1,4 @@
-![pinggram logo](https://github.com/KaiKai7/PingGram/assets/87836320/9226b497-197f-4cf2-95b4-472f40fa3408)
+
 
 # PingGram
 Simple ping utility that can ping an ip address, and optionally run a scheduled ping.
