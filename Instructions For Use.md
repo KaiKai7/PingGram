@@ -9,3 +9,7 @@ Enter an ip address to ping, then press the "Ping IP Address" button. A toast wi
 If the ping does not show a toast, then check the ip address formatting for empty spaces or other characters, then try again.
 
 Web requests are sent when the ping time exceeds 2 seconds or the ping is unreachable, but only if the "start/stop" checkbox is checked to start scheduling.
+
+Running apps in the background are subject to Android policies and future code updates may break that functionality, so this app has been coded to run with the screen open to avoid any future issues.
+
+Of course, running with the screen open does present new issues. One of which is that Android will only allow the screen to stay open for 30 minutes before closing.
