@@ -33,4 +33,4 @@ Now that you performed the Google "Open Sesame" and have Developer Options, you 
 ### Screen Brightness
 That leaves the screen brightness, you may want to turn this down when the app is running especially at night. On current versions of Android, just swipe down from the top of the screen to expose the slider for the brightness.
 
-There are shortcuts to change these settings directly, but different operating system versions introduce different metthods and shortcuts. And covering all versions would be a task in itself.
+There are shortcuts to change these settings directly, but different operating system versions introduce different methods and shortcuts. And covering all versions would be a task in itself.
