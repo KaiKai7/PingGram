@@ -12,6 +12,11 @@ Web requests are sent when the ping time exceeds 2 seconds or the ping is unreac
 
 Enter your web request in the "Enter URL" field, then check the checkbox to start the scheduled pings.
 
+### TeleFormer
+I have also created the TeleFormer app, TeleFormer can automatically format the Telegram web request URL. Spaces and new lines require special formatting and can be a pain to form, but just type your message and TeleFormer with format the web request. Format message spaces,new lines and even optionally append a silent attribute with a click to the Telegram web request URL.
+You type the message you want and TeleFormer will format it.
+Emoji's are accepted and can be used.
+
 ## Android Restrictions
 
 Running apps in the background are subject to Android policies and future code updates may break that functionality, so this app has been coded to run with the screen open to avoid any future issues.
