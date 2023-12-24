@@ -1,6 +1,6 @@
 ![pinggram logo resized](https://github.com/KaiKai7/PingGram/assets/87836320/9e4a3264-2c62-4449-ac6b-ba43e15a546f)
 
-# Instructions For Use
+# PingGram Instructions For Use
 
 PingGram can be used on its own with any http web request you may already have, including Telegram.
 
