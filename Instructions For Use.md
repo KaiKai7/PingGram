@@ -12,7 +12,7 @@ Web requests are sent when the ping time exceeds 2 seconds or the ping is unreac
 
 Enter your web request in the "Enter URL" field, then check the checkbox to start the scheduled pings.
 
-## Android Restrictions
+### Android Restrictions
 
 Running apps in the background are subject to Android policies and future code updates may break that functionality, so this app has been coded to run with the screen open to avoid any future issues.
 
