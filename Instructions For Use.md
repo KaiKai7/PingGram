@@ -10,6 +10,8 @@ If the ping does not show a toast, then check the ip address formatting for empt
 
 Web requests are sent when the ping time exceeds 2 seconds or the ping is unreachable, but only if the "start/stop" checkbox is checked to start scheduling.
 
+Enter your web request in the "Enter URL" field, then check the checkbox to start the scheduled pings.
+
 Running apps in the background are subject to Android policies and future code updates may break that functionality, so this app has been coded to run with the screen open to avoid any future issues.
 
 Of course, running with the screen open does present new issues. One of which is that Android will only allow the screen to stay open for 30 minutes before closing. Another way to keep the screen open, is the "Stay awake" toggle in Developer Options. This allows the phone screen to stay open when charging. Charging is something that should be done if the screen is open and the ping is running every 30 seconds anyway.
