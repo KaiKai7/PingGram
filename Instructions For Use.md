@@ -25,3 +25,5 @@ But if you have not already been to Developer Options, you will first have t per
 * Scroll to "Stay awake" and toggle
 
 Now that you performed the Google "Open Sesame" and have Developer Options, you dont have to do that again to expose it. So if you choose to turn off the stay awake feature, it is easy.
+
+That leaves the screen brightness, you may want to turn this down when the app is running especially at night. On current versions of Android, just swipe down from the top of the screen to expose the slider for the brightness.
