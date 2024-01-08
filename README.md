@@ -18,4 +18,4 @@ PingGram was made to be simple, that is why the interval and timeout of the ping
 
 30 second intervals between ping tests was chosen to be able to timely report if a network issue has occurred, such as a jamming attack. Installing PingGram on a cellular device can use cell service when wifi is down to send the web request. Setting the interval any longer and the jamming attack or wifi outage would not be realized immediately. Setting the interval any shorter would only use more network resources when not really neccesary in most scenario's.
 
-No special permissions are required to run and PingGram does not save or use your information in any way. Web requests are made in the app using http, and the help pages are hosted on github.
+No special permissions are required to run and PingGram other than than INTERNET, and PingGram does not save or use your information in any way. Web requests are made in the app using http, and the help pages are hosted on github.
