@@ -6,9 +6,9 @@ Monitor your security cameras and other critical devices to ensure they are conn
 
 PingGram will also optionally send a web request when a scheduled ping is unreachable, or exceeds the timeout.
 
-PingGram will ping the target once every 30 seconds when scheduled.
-
 Timeout is set to 2 seconds, this means if the ping time exceeds 2 seconds, then web request sent.
+
+PingGram will ping the target once every 30 seconds when scheduled.
 
 PingGram was made with Telegram messager in mind but any working web request url will work. Telegram is free and available on all major platforms https://telegram.org
 
