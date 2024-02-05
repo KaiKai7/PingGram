@@ -40,4 +40,6 @@ Now that you performed the Google "Open Sesame" and have Developer Options, you 
 ### Screen Brightness
 Next is the screen brightness, you may want to turn this down when the app is running especially at night. The ability to control the brightness from the onscreen slider requires permission, you may be prompted to allow this permission. If you choose not to, you can simply use the brightness slider in the settings section of your device.
 
+You are now ready to be alerted to devices on your network that are not responding, or are taking too long to communicate. 
+
 
