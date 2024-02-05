@@ -8,7 +8,7 @@ PingGram can be used on its own with any http web request you may already have, 
 
 Enter an ip address to ping, then press the "Start" button. A toast will show if the target is unreachable or the ping exceeds 1.5 seconds.
 
-When entering the ip address, it is not necessary to type http:// or https:// before the ip address.
+When entering the ip address, it is not necessary to type http:// or https:// before the ip address. Simply enter the ip address, for example like this, 192.168.1.1
 
 Web requests are sent when the ping time exceeds 1.5 seconds or when the ping is unreachable, but only if the "Start" button is pressed to start scheduling.
 
