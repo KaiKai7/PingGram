@@ -28,6 +28,7 @@ You type the message you want and TeleFormer will format it.
 Emoji's are accepted and can be used.
 
 TeleFormer is available at the Google Play App Store
+
 https://play.google.com/store/apps/details?id=com.ping.it.utility.teleformer.free&pcampaignid=web_share
 
 ## Android Restrictions
