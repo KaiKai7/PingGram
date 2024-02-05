@@ -8,9 +8,11 @@ PingGram can be used on its own with any http web request you may already have, 
 
 Enter an ip address to ping, then press the "Start" button. A toast will show if the target is unreachable or the ping exceeds 1.5 seconds.
 
+When entering the ip address, it is not necessary to type http:// or https:// before the ip address.
+
 Web requests are sent when the ping time exceeds 1.5 seconds or when the ping is unreachable, but only if the "Start" button is pressed to start scheduling.
 
-Enter your web request in the "Enter IP Address" field, then press the 'Start" button to begin scheduled pings.
+Enter your web request in the "Enter IP Address" field, then press the 'Start" button to begin scheduled pings. This field is unlike the ip address field and you do need to include http:// or https:// to your request.
 
 Scheduled pings run at 30 second intervals, this was chosen as a balance between realtime reporting, and not ssending too many alerts. Be aware of potential data charges if PingGram is left to run unattended. Because PingGram will continue to send alerts every 30 seconds if the ping fails or is unreachable, you must stop PingGram manually. Understand this if you leave the device that is running the PingGram app.
 
