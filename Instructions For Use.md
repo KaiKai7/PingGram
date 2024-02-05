@@ -4,6 +4,8 @@
 
 PingGram can be used on its own with any http web request you may already have, including Telegram.
 
+Use PingGram to monitor an ip address on your network, when the ip address becomes unreachable or exceeds the limit, a web request of your choice can be sent. You also have control over the message, and determine what it will say.
+
 Enter an ip address to ping, then press the "Start" button. A toast will show if the target is unreachable or the ping exceeds 1.5 seconds.
 
 Web requests are sent when the ping time exceeds 1.5 seconds or when the ping is unreachable, but only if the "Start" button is pressed to start scheduling.
