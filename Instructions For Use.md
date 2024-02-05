@@ -16,6 +16,7 @@ Enter your web request in the "Enter IP Address" field, then press the 'Start" b
 
 Scheduled pings run at 30 second intervals, this was chosen as a balance between realtime reporting, and not ssending too many alerts. Be aware of potential data charges if PingGram is left to run unattended. Because PingGram will continue to send alerts every 30 seconds if the ping fails or is unreachable, you must stop PingGram manually. Understand this if you leave the device that is running the PingGram app.
 
+
 ## TeleFormer
 I have also created the TeleFormer app, TeleFormer can automatically format the Telegram web request URL. 
 
@@ -30,6 +31,7 @@ Emoji's are accepted and can be used.
 TeleFormer is available at the Google Play App Store
 
 https://play.google.com/store/apps/details?id=com.ping.it.utility.teleformer.free&pcampaignid=web_share
+
 
 ## Android Restrictions
 
@@ -48,6 +50,7 @@ But if you have not already enabled Developer Options, you will first have to pe
 * Scroll to "Stay awake" and toggle
 
 Now that you performed the Google "Open Sesame" and have Developer Options, you dont have to do that again to expose it. So if you choose to turn off the stay awake feature, it is easy. You can also undo the developer options by tapping "Build Number" 7 times again.
+
 
 ### Screen Brightness
 Next is the screen brightness, you may want to turn this down when the app is running especially at night. The ability to control the brightness from the onscreen slider requires permission, you may be prompted to allow this permission. If you choose not to, you can simply use the brightness slider in the settings section of your device.
