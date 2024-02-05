@@ -20,6 +20,8 @@ Scheduled pings run at 30 second intervals, this was chosen as a balance between
 I have also created the TeleFormer app, TeleFormer can automatically format the Telegram web request URL. Spaces and new lines require special formatting and can be a pain to form, but just type your message and TeleFormer with format the web request. Format message spaces,new lines and even optionally append a silent attribute with a click to the Telegram web request URL.
 You type the message you want and TeleFormer will format it.
 Emoji's are accepted and can be used.
+TeleFormer is available at the Google Play App Store
+https://play.google.com/store/apps/details?id=com.ping.it.utility.teleformer.free&pcampaignid=web_share
 
 ## Android Restrictions
 
