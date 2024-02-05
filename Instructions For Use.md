@@ -16,7 +16,7 @@ Enter your web request in the "Enter IP Address" field, then press the 'Start" b
 
 Scheduled pings run at 30 second intervals, this was chosen as a balance between realtime reporting, and not ssending too many alerts. Be aware of potential data charges if PingGram is left to run unattended. Because PingGram will continue to send alerts every 30 seconds if the ping fails or is unreachable, you must stop PingGram manually. Understand this if you leave the device that is running the PingGram app.
 
-### TeleFormer
+## TeleFormer
 I have also created the TeleFormer app, TeleFormer can automatically format the Telegram web request URL. 
 
 Spaces and new lines require special formatting and can be a pain to form, but just type your message and TeleFormer with format the web request. 
