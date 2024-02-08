@@ -14,7 +14,7 @@ Web requests are sent when the ping time exceeds 1.5 seconds or when the ping is
 
 Enter your web request in the "Enter IP Address" field, then press the 'Start" button to begin scheduled pings. This field is unlike the ip address field and you do need to include http:// or https:// to your request.
 
-Scheduled pings run at 30 second intervals, this was chosen as a balance between realtime reporting, and not ssending too many alerts. Be aware of potential data charges if PingGram is left to run unattended. Because PingGram will continue to send alerts every 30 seconds if the ping fails or is unreachable, you must stop PingGram manually. Understand this if you leave the device that is running the PingGram app.
+Scheduled pings run at 30 second intervals, this was chosen as a balance between realtime reporting, and not sending too many alerts. Be aware of potential data charges if PingGram is left to run unattended. Because PingGram will continue to send alerts every 30 seconds if the ping fails or is unreachable, you must stop PingGram manually. Understand this if you leave the device that is running the PingGram app.
 
 
 ## TeleFormer
